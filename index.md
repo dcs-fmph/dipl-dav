@@ -8,12 +8,11 @@ layout: index
 * **22.9. Úvod k diplomovej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)
 * **29.9. Predstavovanie tém a školiteľov (všetci)**
-* **6.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
-[Úvod do LaTeXu](./Uvod_do_LaTeXu.md) • Prineste si notebook, pripravte si softvér / konto na overleaf.com
+* **6.10. TBA**<br>
 * **Streda 7.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**
-* **13.10. Úvod k prezentáciám, písomná práca (všetci)**<br>
+* **13.10. TBA**<br>
 <!-- [Návod](./Návod.md) (podstránky 3.,4.,7.) • [Prezentácia 1](./Prezentácia_1.md) • [DÚ1](./DU1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) • [Oznamy](Oznamy_október.md)-->
-* **20.10. Nájdené témy, práca s literatúrou, LaTeX (všetci)**
+* **20.10. TBA**
 <!-- [Návod](./Návod.md) (podstránky 5., 6.) -->
 * **27.10. TBA**<br>
 * **3.11. TBA**

@@ -1,4 +1,4 @@
-See https://dcs-fmph.github.io/bcdav/
+See https://dcs-fmph.github.io/dipl-dav/
 
 What to update:
 
