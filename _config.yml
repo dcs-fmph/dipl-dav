@@ -4,11 +4,6 @@ exclude: [README.md]
 # TODO: zmenit skolsky rok podla potreby
 title: Diplomový seminár DAV 2026/27
 
-# TODO: zmenit cislo triedy v moodle podla semestra
-# ZS: 3302 LS: 3303
-# zvycajne zostane rovnake medzi rokmi
-moodle: 3302
-
 # TODO: zmenit podla semestra ZS/LS
 header_pages:
   - index.md

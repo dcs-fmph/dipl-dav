@@ -54,31 +54,46 @@ title: Rady k samotnej práci
   - Ak máte problémy so školiteľom, obráťte sa na nás, prípadne na
     tútora alebo garanta
   - V kritických prípadoch môže byť potrebné zmeniť tému prípadne aj
-    školiteľa, to však v prípade bakalárskych prác typicky vedie k
-    predĺženiu štúdia. Ak meníte školiteľa, nezabudnite dať o tom
+    školiteľa. Ak meníte školiteľa, nezabudnite dať o tom
     vedieť aj pôvodnému školiteľovi
 
-### Príklad časového plánu pre implementačný projekt
+[//]: # (### Príklad časového plánu pre implementačný projekt)
 
-  - Výber témy do polovice októbra
-  - Finalizácia zadania, zháňanie literatúry do konca októbra
-  - Štúdium literatúry a stavu problematiky do konca novembra
-  - Špecifikácia a návrh softvéru do konca decembra
-  - Základná implementácia do konca februára
-  - Testovanie, rozširovanie do konca marca
-  - Písanie práce do konca apríla (aj priebežne v skorších fázach)
-  - Rezerva, kontrola do termínu odovzdania
+[//]: # ()
+[//]: # (  - Výber témy do polovice októbra)
 
-Pre projekty analýzy dát sa fázy špecifikácia, implementácia a testovanie nahradia exploratívnou a finálnou analýzou dát. 
+[//]: # (  - Finalizácia zadania, zháňanie literatúry do konca októbra)
 
-Tento časový plán prispôsobte vášmu projektu
+[//]: # (  - Štúdium literatúry a stavu problematiky do konca novembra)
 
-  - Napr. ak vaša téma vyžaduje väčšie množstvo štúdia, budete musieť
-    skrátiť iné časti
-  - Potom ale v práci môže byť vhodné mať dlhšiu prehľadovú časť, kde
-    zhrniete, čo ste sa naučili (relevantné časti)
-  - Podobne ak je náročná iná časť, venujte jej viac času a viac
-    priestoru v práci
+[//]: # (  - Špecifikácia a návrh softvéru do konca decembra)
+
+[//]: # (  - Základná implementácia do konca februára)
+
+[//]: # (  - Testovanie, rozširovanie do konca marca)
+
+[//]: # (  - Písanie práce do konca apríla &#40;aj priebežne v skorších fázach&#41;)
+
+[//]: # (  - Rezerva, kontrola do termínu odovzdania)
+
+[//]: # ()
+[//]: # (Pre projekty analýzy dát sa fázy špecifikácia, implementácia a testovanie nahradia exploratívnou a finálnou analýzou dát. )
+
+[//]: # ()
+[//]: # (Tento časový plán prispôsobte vášmu projektu)
+
+[//]: # ()
+[//]: # (  - Napr. ak vaša téma vyžaduje väčšie množstvo štúdia, budete musieť)
+
+[//]: # (    skrátiť iné časti)
+
+[//]: # (  - Potom ale v práci môže byť vhodné mať dlhšiu prehľadovú časť, kde)
+
+[//]: # (    zhrniete, čo ste sa naučili &#40;relevantné časti&#41;)
+
+[//]: # (  - Podobne ak je náročná iná časť, venujte jej viac času a viac)
+
+[//]: # (    priestoru v práci)
 
 ### Hodnotenie práce
 
@@ -94,25 +109,45 @@ Tento časový plán prispôsobte vášmu projektu
     kritiku uvedenú v posudkoch. Komisia na obhajobe na základe posudkov
     a priebehu obhajoby udelí výslednú známku.
 
-### Bakalárska práca je vaša trvalá vizitka
+[//]: # (### Bakalárska práca je vaša trvalá vizitka)
 
-  - Bakalárskej práci venujte väčšiu pozornosť ako bežným školským
-    povinnostiam.
-  - Po obhajobe (a prípadnom najviac 2-ročnom odklade) bude zverejnená a
-    môžu si ju pozrieť napr. vaši budúci zamestnávatelia. Asi ste
-    zachytili niekoľko škandálov so záverečnými prácami politikov.
-  - Ak máte školiteľa mimo fakulty, svojou prácou budujete aj obraz
-    fakulty a môžete ovplyvniť to, ako bude daná inštitúcia ochotná
-    školiť alebo zamestnávať ďalších študentov a absolventov.
-  - Vážte si čas, ktorý vám školitelia poskytujú a dodržte minimálne
-    tieto zásady
-      - Potenciálnych školiteľov, s ktorými ste sa rozprávali,
-        informujte, ak sa napokon rozhodnete pracovať u iného školiteľa.
-      - Informujte školiteľa, ak kvôli nejakým problémom musíte na
-        nejaký čas prerušiť prácu na bakalárskej práci alebo ak sa
-        rozhodnete prácu dokončiť až v ďalšom roku.
-      - Na stretnutia so školiteľom choďte pripravení, majte prichystané
-        relevantné materiály, otázky, ktoré sa chcete spýtať a podobne.
-        Robte si poznámky z diskusie so školiteľom.
-      - Ak nemôžete prísť na dohodnuté stretnutie, ospravedlňte sa,
-        pokiaľ možno vopred.
+[//]: # ()
+[//]: # (  - Bakalárskej práci venujte väčšiu pozornosť ako bežným školským)
+
+[//]: # (    povinnostiam.)
+
+[//]: # (  - Po obhajobe &#40;a prípadnom najviac 2-ročnom odklade&#41; bude zverejnená a)
+
+[//]: # (    môžu si ju pozrieť napr. vaši budúci zamestnávatelia. Asi ste)
+
+[//]: # (    zachytili niekoľko škandálov so záverečnými prácami politikov.)
+
+[//]: # (  - Ak máte školiteľa mimo fakulty, svojou prácou budujete aj obraz)
+
+[//]: # (    fakulty a môžete ovplyvniť to, ako bude daná inštitúcia ochotná)
+
+[//]: # (    školiť alebo zamestnávať ďalších študentov a absolventov.)
+
+[//]: # (  - Vážte si čas, ktorý vám školitelia poskytujú a dodržte minimálne)
+
+[//]: # (    tieto zásady)
+
+[//]: # (      - Potenciálnych školiteľov, s ktorými ste sa rozprávali,)
+
+[//]: # (        informujte, ak sa napokon rozhodnete pracovať u iného školiteľa.)
+
+[//]: # (      - Informujte školiteľa, ak kvôli nejakým problémom musíte na)
+
+[//]: # (        nejaký čas prerušiť prácu na bakalárskej práci alebo ak sa)
+
+[//]: # (        rozhodnete prácu dokončiť až v ďalšom roku.)
+
+[//]: # (      - Na stretnutia so školiteľom choďte pripravení, majte prichystané)
+
+[//]: # (        relevantné materiály, otázky, ktoré sa chcete spýtať a podobne.)
+
+[//]: # (        Robte si poznámky z diskusie so školiteľom.)
+
+[//]: # (      - Ak nemôžete prísť na dohodnuté stretnutie, ospravedlňte sa,)
+
+[//]: # (        pokiaľ možno vopred.)
