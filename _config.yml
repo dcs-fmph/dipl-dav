@@ -2,7 +2,7 @@ theme: minima
 exclude: [README.md]
 
 # TODO: zmenit skolsky rok podla potreby
-title: Bakalársky seminár DAV+BIN 2026/27
+title: Diplomový seminár DAV 2026/27
 
 # TODO: zmenit cislo triedy v moodle podla semestra
 # ZS: 3302 LS: 3303
