@@ -21,7 +21,7 @@ Priebeh
     že vaša prezentácia je na počítači a vyzerá byť v poriadku
   - Predseda komisie uvedie vašu prezentáciu, sleduje časový limit
     (vhodné je ale mať aj vlastné hodinky), potom riadi diskusiu
-  - Časový limit je **15 minút** (prípadne podľa pokynov predsedu
+  - Časový limit je **20 minút** (prípadne podľa pokynov predsedu
     komisie), pokúste sa ho dodržať
   - Po prezentácii sa čítajú posudky, vy na ne reagujete
   - Nasledujú ľubovoľné otázky od komisie a publika
@@ -63,7 +63,7 @@ sebecky
 
   - Čo chcem ja osobne prezentáciou dosiahnuť?
 
-Konkrétne na obhajobe bakalárskej práce
+Konkrétne na obhajobe záverečnej práce
 
   - Publikum je komisia, spolužiaci, prípadne ďalší prítomní
   - Hlavným cieľom je presvedčiť komisiu, že vaša bakalárska práca je

@@ -2,15 +2,14 @@
 title: Písomná práca
 ---
 
-Cieľom bakalárskej práce je systematickým a zrozumiteľným spôsobom
+Cieľom záverečnej práce je systematickým a zrozumiteľným spôsobom
 oboznámiť čitateľa s teoretickým základom študovanej problematiky a s
 vlastnými výsledkami. 
 
 ## Rozsah, formálna úprava
 
   - Smernica odporúča
-      - rozsah aspoň 30-40 normostrán, t.j. 54 000 až 72 000 znakov
-        vrátane medzier,
+      - rozsah aspoň 50-70 normostrán,
       - obojstrannú tlač (ale jednostranná lepšia pre pdf)
       - veľkosť písma 12pt, riadkovanie 1,5
       - okraje vľavo 3,5 cm, vpravo 2 cm, zhora a zdola 2,5 cm (zľava je
@@ -34,8 +33,6 @@ vlastnými výsledkami.
     - správne uveďte študijný program a odbor:
           - Študijný program: Dátová veda, Študijný odbor: Informatika a
             Matematika
-          - Študijný program: Bioinformatika, Študijný odbor:
-            Informatika a Biológia
     - okrem školiteľa môžete mať aj konzultanta
   - **Zadanie** z AIS - vložiť pdf, pri anglických prácach vložte slovenskú aj anglickú verziu
   - **Čestné vyhlásenie** odporúčané v smernici k používaniu AI

@@ -6,64 +6,109 @@ title: Pravidlá
 
 ## Známka
 
-Na úspešné absolvovanie predmetu musíte splniť všetky nasledujúce podmienky:
+TBA
 
-- účasť na hodinách, viď pravidlá nižšie
-- mať v systéme AIS schválené zadanie bakalárskej práce
-- získať aspoň polovicu bodov z DÚ1
-- získať aspoň polovicu bodov z prezentácie
-- získať aspoň polovicu bodov z kontrolného stretnutia
+[//]: # (Na úspešné absolvovanie predmetu musíte splniť všetky nasledujúce podmienky:)
 
-Ak niektorú z podmienok nesplníte, budete hodnotení známkou Fx.
+[//]: # ()
+[//]: # (- účasť na hodinách, viď pravidlá nižšie)
 
-V prípade úspešného absolvovania predmetu získate známku podľa bodov v celkovom hodnotení takto:
+[//]: # (- mať v systéme AIS schválené zadanie bakalárskej práce)
 
-- A: 90% a viac, B:80...89%, C: 70...79%, D: 60...69%, E: 50...59%
+[//]: # (- získať aspoň polovicu bodov z DÚ1)
 
-V hodnotení majú jednotlivé zložky nasledujúcu váhu:
+[//]: # (- získať aspoň polovicu bodov z prezentácie)
 
-- Schválené zadanie práce v AIS 7%
-- Vyplnenie údajov o téme do Moodlu 3%
-- Prezentácia 40%
-- DÚ1 40%
-- Kontrolné stretnutie 10%
+[//]: # (- získať aspoň polovicu bodov z kontrolného stretnutia)
 
-## Účasť
+[//]: # ()
+[//]: # (Ak niektorú z podmienok nesplníte, budete hodnotení známkou Fx.)
 
-- Vyučovacie hodiny sú v pláne označené ako kódom "všetci", "pre záujemcov" alebo "aspoň 2"
-- Je potrebné sa zúčastniť na všetkých seminároch označených "všetci" a na aspoň 2 seminároch označených "aspoň 2" (vrátane toho, na ktorom budete prezentovať)
-    - Nenechávajte si splnenie tejto povinnosti na poslednú chvíľu
-- Semináre označené "pre záujemcov" sú nepovinné
-- Ak sa nezúčastníte niektorého seminára označeného kódom "všetci"
-    - Ak ste mali na to závažné dôvody (napr. zdravotné), ospravedlňte sa z neúčasti čím skôr emailom [A. Gafurovovi](http://www.dcs.fmph.uniba.sk/~gafurov/)
-    - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa pravidiel nižšie
-- Účasť na prezentáciách nie je možné nahradzovať aktivitami nižšie
-- V prípade neúčasti si samostatne preštudujte poznámky z vymeškanej hodiny na stránke predmetu
+[//]: # ()
+[//]: # (V prípade úspešného absolvovania predmetu získate známku podľa bodov v celkovom hodnotení takto:)
 
-Aktivity na nahrádzanie neúčasti
+[//]: # ()
+[//]: # (- A: 90% a viac, B:80...89%, C: 70...79%, D: 60...69%, E: 50...59%)
 
-- Prvá neúčasť: zúčastníte sa aspoň troch seminárov s prezentáciami (namiesto dvoch povinných)
-- Druhá neúčasť: na DÚ1 odovzdáte o jednu stranu textu viac, t.j. aspoň 3 strany
-- Tretia neúčasť: od niektorého spolužiaka si vypýtate DÚ1, prečítate si ju a dáte mu písomné komentáre, ktoré pošlete spolužiakovi aj nám. Komentáre treba poslať do 5 dní od riadneho termínu odovzdania DÚ1. Cieľom komentárov je pomôcť spolužiakovi zlepšiť tento text. Komentáre môžu obsahovať nájdené menšie chyby (preklepy, pravopis, atď), ale aj miesta, kde ste mali problém text pochopiť, kde by sa mal podľa vás rozšíriť alebo naopak, čo sa vám na texte páčilo. Vaše komentáre by mali byť v rozsahu aspoň pol strany textu (bez prílišného rozťahovania prázdnym miestom)
-- Ďalšie neúčasti: ďalšia podobná aktivita podľa pokynov vyučujúcich.
+[//]: # ()
+[//]: # (V hodnotení majú jednotlivé zložky nasledujúcu váhu:)
 
-Upozorňujeme, že tieto aktivity môžu byť náročnejšie ako účasť na seminári.
+[//]: # ()
+[//]: # (- Schválené zadanie práce v AIS 7%)
 
-## Prezentácia
+[//]: # (- Vyplnenie údajov o téme do Moodlu 3%)
 
-- V druhej polovici semestra bude každý študent prezentovať svoju tému bakalárskej práce.
-- Dĺžka prezentácie je 8 minút.
-- Bližšie pokyny neskôr.
+[//]: # (- Prezentácia 40%)
 
-## Domáca úloha
+[//]: # (- DÚ1 40%)
 
-- Cieľom bude vytvoriť kostru práce a napísať dve strany textu týkajúceho sa vašej témy
-- Odovzdáva sa elektronicky do systému Moodle, kde budeme tiež zverejňovať body
-- Dodržujte termín odovzdania a pokyny uvedené v zadaní
-- Úlohy vám pomôžu precvičiť si zručnosti užitočné pri písaní práce
-- Domácu úlohu vypracujte samostatne, citujte použité zdroje a vyhnite sa plagiátorským praktikám.
+[//]: # (- Kontrolné stretnutie 10%)
 
-## Kontrolné stretnutie
+[//]: # ()
+[//]: # (## Účasť)
 
-- Kontrolné stretnutie bude cez skúškové obdobie.
-- Na stretnutí stručne vyučujúcim prezentujete prehľad už hotových častí práce a časový plán na jej dokončenie a diskutujete o otázkach a problémoch, ktoré sa vyskytli.
+[//]: # ()
+[//]: # (- Vyučovacie hodiny sú v pláne označené ako kódom "všetci", "pre záujemcov" alebo "aspoň 2")
+
+[//]: # (- Je potrebné sa zúčastniť na všetkých seminároch označených "všetci" a na aspoň 2 seminároch označených "aspoň 2" &#40;vrátane toho, na ktorom budete prezentovať&#41;)
+
+[//]: # (    - Nenechávajte si splnenie tejto povinnosti na poslednú chvíľu)
+
+[//]: # (- Semináre označené "pre záujemcov" sú nepovinné)
+
+[//]: # (- Ak sa nezúčastníte niektorého seminára označeného kódom "všetci")
+
+[//]: # (    - Ak ste mali na to závažné dôvody &#40;napr. zdravotné&#41;, ospravedlňte sa z neúčasti čím skôr emailom [A. Gafurovovi]&#40;http://www.dcs.fmph.uniba.sk/~gafurov/&#41;)
+
+[//]: # (    - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa pravidiel nižšie)
+
+[//]: # (- Účasť na prezentáciách nie je možné nahradzovať aktivitami nižšie)
+
+[//]: # (- V prípade neúčasti si samostatne preštudujte poznámky z vymeškanej hodiny na stránke predmetu)
+
+[//]: # ()
+[//]: # (Aktivity na nahrádzanie neúčasti)
+
+[//]: # ()
+[//]: # (- Prvá neúčasť: zúčastníte sa aspoň troch seminárov s prezentáciami &#40;namiesto dvoch povinných&#41;)
+
+[//]: # (- Druhá neúčasť: na DÚ1 odovzdáte o jednu stranu textu viac, t.j. aspoň 3 strany)
+
+[//]: # (- Tretia neúčasť: od niektorého spolužiaka si vypýtate DÚ1, prečítate si ju a dáte mu písomné komentáre, ktoré pošlete spolužiakovi aj nám. Komentáre treba poslať do 5 dní od riadneho termínu odovzdania DÚ1. Cieľom komentárov je pomôcť spolužiakovi zlepšiť tento text. Komentáre môžu obsahovať nájdené menšie chyby &#40;preklepy, pravopis, atď&#41;, ale aj miesta, kde ste mali problém text pochopiť, kde by sa mal podľa vás rozšíriť alebo naopak, čo sa vám na texte páčilo. Vaše komentáre by mali byť v rozsahu aspoň pol strany textu &#40;bez prílišného rozťahovania prázdnym miestom&#41;)
+
+[//]: # (- Ďalšie neúčasti: ďalšia podobná aktivita podľa pokynov vyučujúcich.)
+
+[//]: # ()
+[//]: # (Upozorňujeme, že tieto aktivity môžu byť náročnejšie ako účasť na seminári.)
+
+[//]: # ()
+[//]: # (## Prezentácia)
+
+[//]: # ()
+[//]: # (- V druhej polovici semestra bude každý študent prezentovať svoju tému bakalárskej práce.)
+
+[//]: # (- Dĺžka prezentácie je 8 minút.)
+
+[//]: # (- Bližšie pokyny neskôr.)
+
+[//]: # ()
+[//]: # (## Domáca úloha)
+
+[//]: # ()
+[//]: # (- Cieľom bude vytvoriť kostru práce a napísať dve strany textu týkajúceho sa vašej témy)
+
+[//]: # (- Odovzdáva sa elektronicky do systému Moodle, kde budeme tiež zverejňovať body)
+
+[//]: # (- Dodržujte termín odovzdania a pokyny uvedené v zadaní)
+
+[//]: # (- Úlohy vám pomôžu precvičiť si zručnosti užitočné pri písaní práce)
+
+[//]: # (- Domácu úlohu vypracujte samostatne, citujte použité zdroje a vyhnite sa plagiátorským praktikám.)
+
+[//]: # ()
+[//]: # (## Kontrolné stretnutie)
+
+[//]: # ()
+[//]: # (- Kontrolné stretnutie bude cez skúškové obdobie.)
+
+[//]: # (- Na stretnutí stručne vyučujúcim prezentujete prehľad už hotových častí práce a časový plán na jej dokončenie a diskutujete o otázkach a problémoch, ktoré sa vyskytli.)

@@ -4,8 +4,9 @@ title: Práca s literatúrou
 
 Zo smernice o záverečných prácach: "Študent má preukázať primeranú znalosť vedomostí o problematike a uplatniť svoje schopnosti pri zhromažďovaní, interpretácii a spracúvaní základnej odbornej literatúry, [...]"
 
-Pri bakalárskej práci vám nejakú literatúru odporučí školiteľ, ale mali by ste
-sa postupne učiť si vhodné zdroje hľadať aj sami.
+[//]: # (Pri bakalárskej práci vám nejakú literatúru odporučí školiteľ, ale mali by ste)
+
+[//]: # (sa postupne učiť si vhodné zdroje hľadať aj sami.)
 
 ## Čo a prečo hľadáme v litaratúre
 

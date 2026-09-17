@@ -2,7 +2,11 @@
 title: Externý školiteľ
 ---
 
-Školitelia, ktorí nie sú v súčasnosti zamestnancami ani doktorandami Univerzity Komenského, spravidla nemajú prístup k systému AIS. Tieto zadania môže do systému zadať [doc. Brejová](https://compbio.fmph.uniba.sk/~bbrejova). Za týmto účelom by jej mal školiteľ poslať e-mail s nižšie uvedenými údajmi. V zadaní použite správnu diakritiku, najmä v mene školiteľa.
+Školitelia, ktorí nie sú v súčasnosti zamestnancami ani doktorandami Univerzity Komenského, 
+spravidla nemajú prístup k systému AIS. 
+Tieto zadania môže do systému zadať **TBA osoba**. 
+Za týmto účelom by jej mal školiteľ poslať e-mail s nižšie uvedenými údajmi. 
+V zadaní použite správnu diakritiku, najmä v mene školiteľa.
 
 - Plné meno školiteľa a akademické tituly
 - E-mailová adresa školiteľa

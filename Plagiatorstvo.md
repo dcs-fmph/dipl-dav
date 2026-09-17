@@ -29,7 +29,7 @@ title: Plagiátorstvo a použitie UI
 
 ### Čestné vyhlásenie v práci
 
-Čestne vyhlasujem, že celú bakalársku prácu na tému „Názov vašej bakalárskej práce“ , vrátane všetkých jej príloh a obrázkov, som vypracoval/vypracovala samostatne, a to s použitím literatúry uvedenej v priloženom zozname.
+Čestne vyhlasujem, že celú diplomovú prácu na tému „Názov vašej diplomovej práce“ , vrátane všetkých jej príloh a obrázkov, som vypracoval/vypracovala samostatne, a to s použitím literatúry uvedenej v priloženom zozname.
 
 Pri príprave tejto práce boli tiež použité nástroje umelej inteligencie [ZOZNAM
 NÁSTROJOV] za účelom [DÔVOD]. Nástroje umelej inteligencie som použil/použila

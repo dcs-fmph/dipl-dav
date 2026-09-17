@@ -24,7 +24,7 @@ title: Odovzdávanie prác
         použiť cez `\usepackage` (v ubuntu texlive-latex-recommended a
         cm-super)
   - Má obsahovať nepodpísané zadanie (stiahnite si z AIS, v prípade
-    problémov kontaktujte doc. Brejovú)
+    problémov kontaktujte vyučujúcich)
       - Anglické práce majú mať zadanie v obidvoch jazykoch
   - Pri odovzdávaní treba vyplniť aj ďalšie údaje, napr. abstrakt a
     počet strán (posledná číslovaná strana)
