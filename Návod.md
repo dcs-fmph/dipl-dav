@@ -6,7 +6,6 @@ Na tejto stránke zhromažďujeme dobré rady k diplomovej práci a k štúdiu
 v poslednom ročníku.
 
 
-2. [Výber školiteľa a témy](./Výber_školiteľa_a_témy.md)
 3. [Rady k samotnej práci](./Rady_k_samotnej_práci.md)
 4. [Písomná práca](./Pisomna_praca.md)
    - (4b) [Plagiátorstvo a použitie UI](./Plagiatorstvo.md)
